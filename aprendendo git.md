@@ -12,6 +12,6 @@ git config --global user.email divinoap17@gmail.com
 - git add - para particionar arquivos a area de versionamento 
 - git commit -m "" -serve para confirmar os arquivos arquivos e alteraçoes 
 - Git diff - mostrar as diferencas entre os arquivos
-
+- git checkout -muda de brantgit  ou restaura o arquivo 
 
 # capitulo 2
